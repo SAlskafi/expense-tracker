@@ -80,4 +80,9 @@ The hardest part was connecting the frontend to the backend API and handling asy
 
 ## GitHub Repository
 
-https://github.com/SAlskafi/expense-tracker
+[Repository Link](https://github.com/SAlskafi/expense-tracker)
+
+## Demo Video
+
+[Watch the Demo Video](https://drive.google.com/file/d/11j7In4yIHgXT0z3sH4s9RfuGbFa0SopO/view?usp=sharing)
+
