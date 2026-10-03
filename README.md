@@ -77,3 +77,7 @@ DB_NAME=tracker_expense
 ## What was the hardest part?
 
 The hardest part was connecting the frontend to the backend API and handling asynchronous operations correctly. I had to understand how `fetch`, `async/await`, HTTP status codes, JSON responses, validation, and error handling work together. I solved this by testing each API operation separately and then connecting it to the frontend using `try/catch`, validation messages, and refreshing the data from the server after each successful operation.
+
+## GitHub Repository
+
+https://github.com/SAlskafi/expense-tracker
